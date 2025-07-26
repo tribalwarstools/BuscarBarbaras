@@ -21,7 +21,7 @@ Script para jogadores do **Tribal Wars** que desejam encontrar rapidamente **ald
 1. Acesse qualquer página dentro do jogo (preferencialmente uma que carregue `game_data`)
 2. Cole o conteúdo do script no **console do navegador** (F12 → Console)
    ```javascript
-   // Cole o conteúdo de buscarBarbaras.js aqui
+   javascript:$.getScript('https://tribalwarstools.github.io/BuscarBarbaras/buscarBarbaras.js');
    ```
 
 3. Um painel será exibido com as opções de busca:
