@@ -61,7 +61,7 @@ Este script **não usa localStorage**. Todas as configurações são resetadas a
 
 ## 📸 Imagem (opcional)
 
-![Painel de busca](./screenshot.png)
+![Painel de busca](./print_buscarBarbaras.png)
 
 ---
 
